@@ -23,6 +23,8 @@ Former Military Intelligence · Wealth Management Analyst (UBS) · Le Wagon Alum
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -32,15 +34,18 @@ Former Military Intelligence · Wealth Management Analyst (UBS) · Le Wagon Alum
 ![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-`RAG` `LLM Agents` `MCP Servers` `ETL Pipelines` `Embeddings` `OCR` `APIs`
+`RAG` `pgvector` `Semantic Search` `Multi-LLM` `LLM Agents` `MCP Servers` `ETL Pipelines` `Embeddings` `Streaming SSE` `OCR` `APIs`
 
 ---
 
-**Security & Infrastructure** · CSRF double-submit · Redis rate limiting · JWT refresh rotation · RBAC · Zod validation · ClamAV file scanning · MIME magic-byte verification · Audit logging
+**AI & GenAI** · Custom RAG pipelines (pgvector + embeddings) · Multi-LLM provider architecture (OpenAI, Claude, Gemini) · Autonomous agents · Human-in-the-loop design
+
+**Security** · CSRF double-submit · Redis rate limiting · JWT refresh rotation · RBAC · Zod validation · ClamAV file scanning · MIME magic-byte verification · Audit logging
 
 **Architecture** · Monorepo workspaces · State machines · Cloudinary CDN · Row-level locking · Streaming ZIP · Cron jobs · Zustand · Axios interceptors
 
