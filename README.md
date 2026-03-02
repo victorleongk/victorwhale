@@ -2,7 +2,7 @@
 
 # Victor Gless-Krumhorn
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=AI+Enablement+%26+Software+Development;GenAI+Integration+%7C+Financial+Dashboards;Web+Apps+%7C+Automation+Pipelines;Shipping+Production+Code+Daily" alt="Typing SVG" />
+**AI Enablement & Software Development**
 
 [![Website](https://img.shields.io/badge/jaikin.eu-58A6FF?style=for-the-badge&logo=safari&logoColor=white)](https://jaikin.eu)
 [![Location](https://img.shields.io/badge/FR+%7C+DE+%7C+CH-1a1b27?style=for-the-badge&logo=google-maps&logoColor=58A6FF)]()
