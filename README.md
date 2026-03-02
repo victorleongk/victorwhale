@@ -1,6 +1,6 @@
 <div align="center">
 
-# Victor Gless-Krumhorn
+# Victor GK
 
 Founder of **[JAIKIN](https://jaikin.eu)** · Former Military Intelligence · WM Analyst (UBS) · Trilingual FR / EN / DE
 
