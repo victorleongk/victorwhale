@@ -22,8 +22,9 @@ Former Military Intelligence · Wealth Management Analyst (UBS) · Le Wagon Alum
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=victorwhale&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorwhale&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="40%" />
+### What I build
+
+GenAI integration · Financial dashboards · Web applications · Secure infrastructure
 
 </div>
 
@@ -103,14 +104,14 @@ Former Military Intelligence · Wealth Management Analyst (UBS) · Le Wagon Alum
 
 <div align="center">
 
-*Identifying & delivering high-impact GenAI use cases · Building dashboards & BI pipelines · Shipping web apps from prototype to production*
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorwhale&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="45%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=victorwhale&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF" width="95%" />
 
 <br>
 
 *Building and shipping every day — because the market doesn't wait* ⚡
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=victorwhale&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF" width="95%" />
 
 </div>
